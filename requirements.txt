@@ -2,4 +2,7 @@ pandas
 numpy
 flask
 scikit-learn 
-pickle
+seaborn
+matplotlib
+gunicorn
+flask
